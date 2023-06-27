@@ -170,6 +170,7 @@ class SystemImageReleaseZip(AndroidReleaseZip):
         "google_atd": "google_atd",
         "google_ndk_playstore": "ndk_playstore",
         "android-tv": "tv",
+        "lineage": "lineage",
     }
 
     def __init__(self, file_name: str):
